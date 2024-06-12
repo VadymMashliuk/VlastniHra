@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Kolo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Kolo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Kolo()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ sestreleniUfa()
+comment4.params=
+comment4.target=void\ explozeUfa()
+numComments=5
