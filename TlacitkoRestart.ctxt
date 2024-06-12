@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TlacitkoRestart
+comment0.text=\n\ Write\ a\ description\ of\ class\ TlacitkoRestart\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=TlacitkoRestart()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ tlacitkoSpustitHru()
+numComments=4
